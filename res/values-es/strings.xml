@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Encuesta</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="entrar">Entrar</string>
+    <string name="encuesta">Encuesta</string>
+    <string name="view_survey">Ver Encuestas</string>
+    <string name="create_survey">Crear Encuesta</string>
+    <string name="add_question">Añadir Pregunta</string>
+    <string name="Welcome">Bienvenidos</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="SurveyName">Nombre</string>
+    <string name="SurveyQuestion">Pregunta</string>
+    <string name="AddQuestionToSurvey">Agregar Pregunta</string>
+    <string name="PostOnTwitter">Twittea con :</string>
+    <string name="TweetText">Tweet</string>
+    <string name="Back">Regresar</string>
+    <string name="writeAnswer">Escribe una respuesta</string>
+
+</resources>
